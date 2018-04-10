@@ -1,0 +1,68 @@
+/* Desktop */
+
+html {
+width: 100%;
+background: #000000;
+}
+
+/* HNG Internships */
+
+.title {
+padding-top: 100px;
+text-align: center;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 64px;
+
+color: #F1F1F1;
+}
+
+
+
+/* Ayebakuro’s Task 1 */
+
+.subtitle {
+padding: 15px;
+text-align: center;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 48px;
+
+color: #F1F1F1;
+}
+
+/* The Time Is: */
+.intro {
+padding: 15px;
+text-align: center;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 35px;
+
+color: #F1F1F1;
+}
+
+
+/* 12:59 AM */
+
+.time {
+padding: 15px;
+text-align: center;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 75px;
+
+color: #F1F1F1;
+}
